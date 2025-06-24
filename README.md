@@ -1,0 +1,4 @@
+
+
+
+<a href="https://creativecommons.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多功能控制器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2025/6 </font></font><a href="https://creativecommons.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TSAI, AN-HSIANG</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版權歸屬於</font></font><a href="https://creativecommons.org/licenses/by/4.0/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Creative Commons Attribution 4.0 International。</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
