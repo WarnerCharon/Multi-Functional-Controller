@@ -6,6 +6,6 @@
 
 文檔內容：CC-BY 4.0
 
-👉 GitHub 原始碼與設計存取：https://github.com/[你的帳號]/Multi-Functional-Controller
+👉 GitHub 原始碼與設計存取：https://github.com/WarnerCharon/Multi-Functional-Controller
 
 Multi-Functional-Controller  © 2025/6 by TSAI, AN-HSIANG is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
