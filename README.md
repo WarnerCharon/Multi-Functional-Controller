@@ -7,13 +7,16 @@ The open hardware release includes complete schematics, PCB layouts, electrical 
 
 This controller is ideal for industrial water treatment systems, HVAC units, air compressors, and process control where reliable, simple, and low-cost control is needed without the complexity of PLC programming. Its open-source nature allows educational institutions, OEM manufacturers, system integrators, and hobbyists to adopt, learn, and further develop derivative control systems while contributing back to the open hardware community.
 
-This controller project (Multi-Functional-Controller) fully complies with international open source hardware standards and has applied for OSHWA formal certification. All design archives and source codes are subject to the following authorization:
+This controller project (Multi-Functional-Controller) fully complies with international open source hardware standards and is officially certified by the Open Source Hardware Association (OSHWA). All design archives and source codes are released under the following licenses:
 
-Hardware design: CERN OHL-W v2.0
+Hardware design: OSHWA、CERN OHL-W v2.0
 
 Control logic: Apache License 2.0
 
 Document content: CC-BY 4.0
+
+OSHWA Certification ID: TW000007
+https://certification.oshwa.org/tw000007.html
 
 👉 GitHub original code and design access: https://github.com/WarnerCharon/Multi-Functional-Controller
 
@@ -28,13 +31,16 @@ TW:
 
 該控制器非常適合工業水處理系統，HVAC單元，空氣壓縮機以及過程控制，而在沒有PLC編程的複雜性的情況下，需要可靠，簡單和低成本的控制。它的開源性質允許教育機構，OEM製造商，系統集成商和業餘愛好者採用，學習和進一步開發衍生性控制系統，同時又回到開放的硬件社區。
 
-本控制器專案（Multi-Functional-Controller）完全遵循國際開源硬體標準，並已申請 OSHWA 正式認證。所有設計檔案與源碼皆遵循以下授權：
+本控制器專案（Multi-Functional-Controller）完全符合國際開源硬體標準，並獲得開源硬體協會（OSHWA）的官方認證。所有設計檔案和原始碼均遵循以下許可證發布：
 
-硬體設計：CERN OHL-W v2.0
+硬體設計：OSHWA、CERN OHL-W v2.0
 
 控制邏輯：Apache License 2.0
 
 文檔內容：CC-BY 4.0
+
+OSHWA Certification ID: TW000007
+https://certification.oshwa.org/tw000007.html
 
 👉 GitHub 原始碼與設計存取：https://github.com/WarnerCharon/Multi-Functional-Controller
 
